@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi 👋, I'm Matt!
+## About me
+- 🌱 I got my bachelor's degree from Shenzhen University.
+- 🔭 Currently, I am a master student in Shenzhen University, and my research direction is computer architecture.
 
+<!-- ![Visitor Count](https://profile-counter.glitch.me/Matt-Dong123/count.svg) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matt-Dong123&layout=compact)](https://github.com/Matt-Dong123/github-readme-stats)
 <!--
 **Matt-Dong123/Matt-Dong123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
