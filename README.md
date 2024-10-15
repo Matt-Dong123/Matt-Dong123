@@ -9,7 +9,7 @@
 
 - I got my bachelor's degree from Shenzhen University.
 - Now, I'm a master student in NHPCC@SZU.
-- I’m interested in Computer Architecture..
+- I’m interested in Computer Architecture.
 - How to reach me: [szudyh@qq.com](#)
 <!-- 
 ---
@@ -26,15 +26,15 @@
 
 #### Recent Research
 
-- Wang Y, He J, Sun K, **Dong Y**, et al. Boosting Write Performance of KV Stores: An NVM-Enabled Storage Collaboration Approach (**ICDE'24, Accepted**)
+- Wang Y, He J, Sun K, **Dong Y**, et al. Boosting Write Performance of KV Stores: An NVM-Enabled Storage Collaboration Approach (**ICDE'24**)
 
 ---
 
 #### Project
 
 - [SZUOJ](https://github.com/SZUOJ) OnlineJudge System for Shenzhen University, 2021-2024.
-- [CSSE-GotoLab](https://github.com/SZUCSSE-WXProgram/GotoLab) Wechat Miniprogram, 2023. 
-- [CSSE-GiveMeFive](https://github.com/SZUCSSE-WXProgram/GiveMeFive). Wechat Miniprogram, 2020. 
+- [CSSE-GotoLab](https://github.com/SZUCSSE-WXProgram/GotoLab) Wechat Miniprogram for SZU CSSE, 2023. 
+- [CSSE-GiveMeFive](https://github.com/SZUCSSE-WXProgram/GiveMeFive). Wechat Miniprogram for SZU CSSE, 2020. 
 
 
 
