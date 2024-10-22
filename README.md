@@ -32,7 +32,7 @@
 
 #### Project
 
-- [SZUOJ](https://github.com/SZUOJ) OnlineJudge System for Shenzhen University, 2021-2024.
+- [SZUOJ](https://github.com/SZUOJ) OnlineJudge System for Shenzhen University, 2021-present.
 - [CSSE-GotoLab](https://github.com/SZUCSSE-WXProgram/GotoLab) Wechat Miniprogram for SZU CSSE, 2023. 
 - [CSSE-GiveMeFive](https://github.com/SZUCSSE-WXProgram/GiveMeFive). Wechat Miniprogram for SZU CSSE, 2020. 
 
