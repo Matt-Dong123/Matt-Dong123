@@ -26,6 +26,7 @@
 
 #### Recent Research
 
+- **Dong Y**, Zhong Z, Wang Y, et al. Dancer: Dynamic Compression and Quantization Architecture for Deep Graph Convolutional Network (**DATE'25**)
 - Wang Y, He J, Sun K, **Dong Y**, et al. Boosting Write Performance of KV Stores: An NVM-Enabled Storage Collaboration Approach (**ICDE'24**)
 
 
